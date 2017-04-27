@@ -1,3 +1,9 @@
 body {
   background-color: #FDFDFD;
 }
+img {
+  width: 45px
+  -webkit-box-shadow: 17px 18px 41px -7px rgba(0,0,0,0.85);
+  -moz-box-shadow: 17px 18px 41px -7px rgba(0,0,0,0.85);
+  box-shadow: 17px 18px 41px -7px rgba(0,0,0,0.85);
+}
