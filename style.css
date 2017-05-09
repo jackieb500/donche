@@ -22,6 +22,10 @@ h3{
   color: #08c;
   font-size: 25px;
 }
+#caption{
+  font-weight: lighter;
+  font-size:22px;
+}
 img {
   width: 90px
   -webkit-box-shadow: 17px 18px 41px -1px rgba(0,0,0,0.85);
@@ -55,8 +59,9 @@ ul{
   margin-bottom: 60px;
 }
 li{
+  text-align: left;
   color: #6cf;
   font-size: 40px;
-  padding: 10px;
-  margin: 15px 0px 15px 0px;
+  padding: 10px 10px 10px 60px;
+  margin: 15px 40px 15px 15px;
 }
