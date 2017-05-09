@@ -18,12 +18,17 @@ h2 {
   color: #6cf;
   font-size: 35px;
 }
+h3{
+  color: #08c;
+  font-size: 25px;
+}
 img {
-  width: 45px
-  -webkit-box-shadow: 17px 18px 41px -7px rgba(0,0,0,0.85);
-  -moz-box-shadow: 17px 18px 41px -7px rgba(0,0,0,0.85);
-  box-shadow: 17px 18px 41px -7px rgba(0,0,0,0.85);
+  width: 90px
+  -webkit-box-shadow: 17px 18px 41px -1px rgba(0,0,0,0.85);
+  -moz-box-shadow: 17px 18px 41px -1px rgba(0,0,0,0.85);
+  box-shadow: 17px 18px 41px -1px rgba(0,0,0,0.85);
   margin-top: 20px;
+  margin-bottom: 70px;
 }
 nav {
   font-size: 40px;
@@ -36,6 +41,22 @@ a {
   color: #9df;
   padding: 0px 150px 0px 150px;
 }
+#button1:hover{
+  font-size: 45px;
+}
 ul {
   text-align: center;
+}
+.menu{
+  width: 280px;
+  margin: 40px 20px 15px 20px;
+}
+ul{
+  margin-bottom: 60px;
+}
+li{
+  color: #6cf;
+  font-size: 25px;
+  padding: 10px;
+  margin: 15px 0px 15px 0px;
 }
