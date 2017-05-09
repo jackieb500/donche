@@ -39,7 +39,7 @@ nav {
 a {
   text-decoration: none;
   color: #9df;
-  padding: 0px 150px 0px 150px;
+  padding: 0px 110px 0px 110px;
 }
 #button1:hover{
   font-size: 45px;
@@ -56,7 +56,7 @@ ul{
 }
 li{
   color: #6cf;
-  font-size: 25px;
+  font-size: 40px;
   padding: 10px;
   margin: 15px 0px 15px 0px;
 }
