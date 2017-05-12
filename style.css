@@ -61,7 +61,28 @@ ul{
 li{
   text-align: left;
   color: #6cf;
-  font-size: 40px;
+  font-size: 25px;
   padding: 10px 10px 10px 60px;
   margin: 15px 40px 15px 15px;
+}
+.items{
+  padding: 25px;
+  width:  430px;
+  height: 460px
+}
+#strokeme {
+  color: white;
+  font-size: 80px;
+  font-family: "Helvetica", "Ariel", sans-serif;
+  text-shadow:
+  -3px -3px 0 #90f,
+  -3px -3px 0 #90f,
+  -3px -3px 0 #90f,
+  -3px -3px 0 #90f;
+}
+.right{
+  float: right;
+}
+.left{
+  float: left;
 }
