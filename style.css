@@ -3,13 +3,13 @@ body {
   position: absolute;
   text-align: center;
   position: absolute;
-  right: 7%;
+  right: 10%;
   font-family: "Helvetica", "Ariel", sans-serif;
 }
 h1{
   font-size: 45px;
-  margin: 5px 0px 0px 0px;
-  padding: 5px 5px 0px 5px;
+  margin: 2px 0px 0px 0px;
+  padding: 0px 5px 0px 5px;
   color: #08c;
   font-family: "Baskerville",serif;
   font-style: oblique;
@@ -19,6 +19,7 @@ h1{
 h2 {
   color: #6cf;
   font-size: 25px;
+  font-weight: lighter;
 }
 h3{
   color: #08c;
@@ -41,16 +42,19 @@ img {
 nav {
   font-size: 35px;
   margin-bottom: 14px;
-  margin-top: 45px;
+  margin-top: 30px;
   float: right;
 }
 a {
   text-decoration: none;
   color: #9df;
-  padding: 0px 70px 0px 70px;
+  padding: 2px 40px 3px 40px;
+  margin: 4px 22px 11px 22px;
 }
-#button1:hover{
-  font-size: 45px;
+a:hover{
+  font-size: 38px;
+  padding: 0px 37px 0px 37px;
+  margin: 0px 20px 1px 20px;
 }
 .title{
   float: left;
@@ -74,22 +78,21 @@ li{
 }
 .items{
   padding: 10px;
-  width:  370px;
+  width:  360px;
   height: 480px;
 }
 #strokeme {
   color: white;
   font-size: 80px;
   font-family: "Helvetica", "Ariel", sans-serif;
+  text-align: center;
   text-shadow:
   -3px -3px 0 #08c,
   -3px -3px 0 #08c,
   -3px -3px 0 #08c,
   -3px -3px 0 #08c;
 }
-#navbar{
-  border-bottom: 0.5px solid #cef;
-}
+
 .right{
   float: right;
   margin: 30px 50px 30px 30px;
