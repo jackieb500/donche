@@ -35,6 +35,7 @@ img {
   margin-bottom: 70px;
 }
 #cover{
+  margin-left: 9em;
   -webkit-box-shadow: 17px 18px 41px -1px rgba(0,0,0,0.85);
   -moz-box-shadow: 17px 18px 41px -1px rgba(0,0,0,0.85);
   box-shadow: 17px 18px 41px -1px rgba(0,0,0,0.85);
@@ -82,8 +83,9 @@ li{
   width:  360px;
   height: 480px;
 }
-#strokeme {
+.strokeme {
   color: #9df;
+  margin-right: 2.5em;
   font-family: "Apple Chancery", cursive;
   font-size: 80px;
   font-weight: bold;
