@@ -24,6 +24,7 @@ h2 {
 h3{
   color: #08c;
   font-size: 25px;
+  text-align: center;
 }
 #caption{
   font-weight: lighter;
@@ -115,4 +116,21 @@ li{
 }
 #div3{
   background-color: #f99;
+}
+
+@media (max-height: 950px) {
+  h1{
+    font-size: 20px;
+  }
+  h2{
+    font-size: 14px;
+  }
+  img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+  }
+  .left{
+    width: 60vmin;
+  }
 }
